@@ -1,4 +1,5 @@
 ## Tentang Saya
+![Gambar Example](DSC07210.JPG)
 
 ### Perkenalan Singkat 👋
 Halo! Saya Farrel Zandra, seorang mahasiswa angkatan 2023 program studi Sarjana Terapan Teknik Informatika di Politeknik Negeri Bandung. Saat ini saya berdomisili di Kabupaten Bandung Barat.
